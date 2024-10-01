@@ -1,0 +1,7 @@
+telebot
+xlsxwriter
+.vscode
+__pycache__
+database.sqlite
+main2Bot.py
+Output.xlsx
